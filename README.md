@@ -14,7 +14,7 @@ A Repo to save Angular samples
 <a href="https://www.linkedin.com/in/isaiasjunior99905" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://discord.gg/MwdGDxvg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
- <h5>Outros conhecimentos:</h5>
+ <h5>Outros conhecimentos de Isaias Júnior:</h5>
  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 )
